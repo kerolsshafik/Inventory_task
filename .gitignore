@@ -17,12 +17,3 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
-# Ignore API Controllers
-app/Http/Controllers/Api/
-app/Http/Traits
-
-# Ignore API Trait
-app/Http/Traits/ApiResponse.php
-
-# Ignore Tests
-tests/Feature/ProductTest.php
